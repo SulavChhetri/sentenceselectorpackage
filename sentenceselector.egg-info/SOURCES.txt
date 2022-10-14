@@ -1,0 +1,8 @@
+LICENCE
+README.md
+setup.py
+sentenceselector/__init__.py
+sentenceselector.egg-info/PKG-INFO
+sentenceselector.egg-info/SOURCES.txt
+sentenceselector.egg-info/dependency_links.txt
+sentenceselector.egg-info/top_level.txt

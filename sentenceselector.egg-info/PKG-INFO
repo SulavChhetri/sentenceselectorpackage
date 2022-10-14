@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: sentenceselector
+Version: 1.0.1
+Summary: This is a sentence selector by words package.
+Author: Sulav
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENCE
+
+This package invokes all the sentences that contains the word you want. There can be a millions sentences and if a word is used in thousand sentences, all the thousand sentences are displayed by our sentenceselector package.
+
